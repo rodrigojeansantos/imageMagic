@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Files
+demo06-layers.zip:Zone.Identifier
